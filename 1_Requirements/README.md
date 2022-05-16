@@ -1,9 +1,3 @@
-# low level Requirements
-* LED'S
-* Switches
-* timer
-* Sensor
-
 # Advantages
 * Low cost automation project.
 * less power consumption.
