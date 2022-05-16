@@ -1,3 +1,15 @@
+# High level requirement
+* AT89C51
+* TRANSFORMER
+* RAIN SENSOR
+* SERVO MOTOR
+* POWER SUPPLY
+
+# LOW LEVEL REQUIREMENT
+* RECTIFIER
+* REGULATOR
+
+
 # Advantages
 * Low cost automation project.
 * less power consumption.
